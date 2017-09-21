@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/doctrine-cache-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/migrations" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/jdorn/sql-formatter" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/ocramius/proxy-manager" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensio/distribution-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensio/generator-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/phpunit-bridge" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-apcu" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php54" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php55" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/security-acl" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/swiftmailer-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/symfony" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/zendframework/zend-eventmanager" />
+          <root url="file://$MODULE_DIR$/../ABIME/vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/doctrine-cache-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/migrations" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/jdorn/sql-formatter" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/ocramius/proxy-manager" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensio/distribution-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensio/generator-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/phpunit-bridge" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-apcu" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php54" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php55" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/security-acl" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/swiftmailer-bundle" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/symfony" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/../../Afup/cache-migration/vendor/zendframework/zend-eventmanager" />
+          <root url="file://$MODULE_DIR$/../ABIME/vendor" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/../../Afup/cache-migration/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+          <root url="phar://$MODULE_DIR$/../ABIME/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/../../Afup/cache-migration/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/../../Afup/cache-migration/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+          <root url="phar://$MODULE_DIR$/../ABIME/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
